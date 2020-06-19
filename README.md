@@ -1,2 +1,2 @@
 # codechef_solutions
-solutions of codechef problems
+My solutions for codechef problems
